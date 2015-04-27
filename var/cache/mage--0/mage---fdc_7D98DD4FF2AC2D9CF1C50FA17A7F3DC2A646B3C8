@@ -70,14 +70,6 @@
 </li>
 </ul>
 </li>
-<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
-<ul >
-<li  class="  level2"> <a href="http://magento.loc/index.php/admin/tag/index/key/$tag/index$/"   class=""><span>All Tags</span></a>
-</li>
-<li  class="  last level2"> <a href="http://magento.loc/index.php/admin/tag/pending/key/$tag/pending$/"   class=""><span>Pending Tags</span></a>
-</li>
-</ul>
-</li>
 <li  class="  last level1"> <a href="http://magento.loc/index.php/admin/sitemap/index/key/$sitemap/index$/"   class=""><span>Google Sitemap</span></a>
 </li>
 </ul>
@@ -118,9 +110,7 @@
 </li>
 <li  class="  level1"> <a href="http://magento.loc/index.php/admin/cms_block/index/key/$cms_block/index$/"   class=""><span>Static Blocks</span></a>
 </li>
-<li  class="  level1"> <a href="http://magento.loc/index.php/admin/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
-</li>
-<li  class="  last level1"> <a href="http://magento.loc/index.php/admin/poll/index/key/$poll/index$/"   class=""><span>Polls</span></a>
+<li  class="  last level1"> <a href="http://magento.loc/index.php/admin/widget_instance/index/key/$widget_instance/index$/"   class=""><span>Widgets</span></a>
 </li>
 </ul>
 </li>
@@ -173,16 +163,6 @@
 <li  class="  level2"> <a href="http://magento.loc/index.php/admin/report_customer/totals/key/$report_customer/totals$/"   class=""><span>Customers by orders total</span></a>
 </li>
 <li  class="  last level2"> <a href="http://magento.loc/index.php/admin/report_customer/orders/key/$report_customer/orders$/"   class=""><span>Customers by number of orders</span></a>
-</li>
-</ul>
-</li>
-<li onmouseover="Element.addClassName(this,'over')" onmouseout="Element.removeClassName(this,'over')" class="  parent level1"> <a href="#"  onclick="return false" class=""><span>Tags</span></a>
-<ul >
-<li  class="  level2"> <a href="http://magento.loc/index.php/admin/report_tag/customer/key/$report_tag/customer$/"   class=""><span>Customers</span></a>
-</li>
-<li  class="  level2"> <a href="http://magento.loc/index.php/admin/report_tag/product/key/$report_tag/product$/"   class=""><span>Products</span></a>
-</li>
-<li  class="  last level2"> <a href="http://magento.loc/index.php/admin/report_tag/popular/key/$report_tag/popular$/"   class=""><span>Popular</span></a>
 </li>
 </ul>
 </li>
